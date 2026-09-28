@@ -1,0 +1,20 @@
+{
+  "sighting_id": "sighting-other-valley-0730",
+  "reported_by": "observer-patrol",
+  "observer_kind": "patrol",
+  "organization": "西梁保护站",
+  "patrol_route_id": "route-xiliang-07",
+  "observed_at": "2026-09-28T07:30:00+08:00",
+  "time_error_seconds": 600,
+  "location": {
+    "kind": "point",
+    "lat": 33.9500,
+    "lon": 109.2000,
+    "radius_m": 100
+  },
+  "sensitive_location": true,
+  "taxon_code": "CAPREOLUS_PYGARGUS",
+  "taxon_confidence": 0.9,
+  "media_summary": {"quality": "clear", "perceptual_hashes": ["phash-roedeer-09"]},
+  "visible_to": ["specialist-1"]
+}

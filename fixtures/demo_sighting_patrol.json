@@ -1,0 +1,20 @@
+{
+  "sighting_id": "sighting-patrol-0601",
+  "reported_by": "observer-patrol",
+  "observer_kind": "patrol",
+  "organization": "东沟保护站",
+  "patrol_route_id": "route-donggou-03",
+  "observed_at": "2026-09-28T06:02:00+08:00",
+  "time_error_seconds": 120,
+  "location": {
+    "kind": "point",
+    "lat": 33.8258,
+    "lon": 108.9412,
+    "radius_m": 20
+  },
+  "sensitive_location": true,
+  "taxon_code": "MOSCHUS_BEREZOVSKII",
+  "taxon_confidence": 0.95,
+  "media_summary": {"quality": "clear", "perceptual_hashes": ["phash-dawn-muskdeer-01"]},
+  "visible_to": ["specialist-1"]
+}
